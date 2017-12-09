@@ -1,0 +1,6 @@
+1. Index the files located in target directory [Store path of every file in directory in .CSV file].
+2. Parse these files and collect important feature about words in the file [how any time specific word repeats].
+3. Create word dictionary[file of every word in directory]. Every file has information about location of its occurance in files.
+4. Sort that information.
+5. Create the user friendly interface to search in files using your smart custom search engine.
+
